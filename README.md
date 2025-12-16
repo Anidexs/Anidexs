@@ -54,25 +54,5 @@
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=🧩TU_USUARIO&show_icons=true&theme=default" alt="stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=🧩TU_USUARIO" alt="streak" />
-</p>
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=🧩TU_USUARIO&layout=compact" alt="top-langs" />
-</p>
-
----
-
 ## 🤝 ¿Colaboramos?
-- 💌 **Email:** 🧩TU_EMAIL  
-- 💼 **LinkedIn:** [🧩TU_LINKEDIN](🧩URL)  
-- 🌐 **Portafolio:** [🧩TU_WEB](🧩URL)  
-
----
-
-<p align="center">
-  <em>Hecho con ❤️ en Markdown</em>
-</p>
+- 💌 **Email:** anibaldiogo13@gmail.com  
