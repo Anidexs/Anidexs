@@ -43,15 +43,6 @@
 
 ## 🚀 Proyectos Destacados
 
-**🧩Proyecto_1 — breve descripción**  
-- Repo: [🧩usuario/proyecto_1](https://github.com/🧩usuario/🧩proyecto_1)  
-- Tech: 🧩React • 🧩Node • 🧩PostgreSQL  
-
-**🧩Proyecto_2 — breve descripción**  
-- Repo: [🧩usuario/proyecto_2](https://github.com/🧩usuario/🧩proyecto_2)  
-- Demo: 🧩URL  
-- Tech: 🧩Python • 🧩FastAPI • 🧩Docker  
-
 ---
 
 ## 🤝 ¿Colaboramos?
